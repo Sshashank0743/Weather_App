@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_settings">Settings</string>
+    
+    <string name="today">Today></string>
+    <string name="next_seven_days">Next 7 Days</string>
+
+</resources>
