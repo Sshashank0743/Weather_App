@@ -16,7 +16,7 @@ Bug reports and pull requests are welcome on GitHub at openweathermap-sdk reposi
 5. Create a new Pull Request
 
 # Author
-indrajit - Owner - [Sshashank0743](https://github.com/Sshashank0743)
+Owner - [Sshashank0743](https://github.com/Sshashank0743)
 
 
 # License
